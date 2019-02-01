@@ -1,0 +1,123 @@
+
+
+Started GET "/" for ::1 at 2019-02-01 09:37:51 +0530
+Processing by AssignmentsController#index as HTML
+  Rendered assignments/index.html.erb within layouts/application (5.6ms)
+Completed 200 OK in 1244ms (Views: 1231.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2019-02-01 09:37:53 +0530
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for ::1 at 2019-02-01 09:37:53 +0530
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for ::1 at 2019-02-01 09:37:53 +0530
+
+
+Started GET "/assets/turbolinks.self-c5acd7a204f5f25ce7a1d8a0e4d92e28d34c9e2df2c7371cd7af88e147e4ad82.js?body=1" for ::1 at 2019-02-01 09:37:53 +0530
+
+
+Started GET "/assets/assignments.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2019-02-01 09:37:53 +0530
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2019-02-01 09:37:53 +0530
+
+
+Started GET "/assets/assignments.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2019-02-01 09:37:53 +0530
+
+
+Started GET "/assignments?utf8=%E2%9C%93&phone_number=9595363963&commit=Find" for ::1 at 2019-02-01 09:38:04 +0530
+Processing by AssignmentsController#index as HTML
+  Parameters: {"utf8"=>"✓", "phone_number"=>"9595363963", "commit"=>"Find"}
+  Rendered assignments/index.html.erb within layouts/application (1.5ms)
+Completed 200 OK in 913ms (Views: 58.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assignments?utf8=%E2%9C%93&phone_number=6686787825&commit=Find" for ::1 at 2019-02-01 09:38:31 +0530
+Processing by AssignmentsController#index as HTML
+  Parameters: {"utf8"=>"✓", "phone_number"=>"6686787825", "commit"=>"Find"}
+  Rendered assignments/index.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 687ms (Views: 36.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2019-02-01 09:39:22 +0530
+Processing by AssignmentsController#index as HTML
+  Rendered assignments/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 65ms (Views: 64.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assignments?utf8=%E2%9C%93&phone_number=sa&commit=Find" for ::1 at 2019-02-01 09:39:26 +0530
+Processing by AssignmentsController#index as HTML
+  Parameters: {"utf8"=>"✓", "phone_number"=>"sa", "commit"=>"Find"}
+  Rendered assignments/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 24ms (Views: 22.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2019-02-01 09:39:35 +0530
+Processing by AssignmentsController#index as HTML
+  Rendered assignments/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 36ms (Views: 35.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assignments?utf8=%E2%9C%93&phone_number=6686787825&commit=Find" for ::1 at 2019-02-01 09:40:11 +0530
+Processing by AssignmentsController#index as HTML
+  Parameters: {"utf8"=>"✓", "phone_number"=>"6686787825", "commit"=>"Find"}
+  Rendered assignments/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 621ms (Views: 38.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2019-02-01 09:40:12 +0530
+
+
+Started GET "/assets/assignments.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2019-02-01 09:40:12 +0530
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for ::1 at 2019-02-01 09:40:12 +0530
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for ::1 at 2019-02-01 09:40:12 +0530
+
+
+Started GET "/assets/turbolinks.self-c5acd7a204f5f25ce7a1d8a0e4d92e28d34c9e2df2c7371cd7af88e147e4ad82.js?body=1" for ::1 at 2019-02-01 09:40:12 +0530
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2019-02-01 09:40:12 +0530
+
+
+Started GET "/assets/assignments.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2019-02-01 09:40:12 +0530
+
+
+Started GET "/assignments?utf8=%E2%9C%93&phone_number=6686787825&commit=Find" for ::1 at 2019-02-01 09:40:13 +0530
+Processing by AssignmentsController#index as HTML
+  Parameters: {"utf8"=>"✓", "phone_number"=>"6686787825", "commit"=>"Find"}
+  Rendered assignments/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 583ms (Views: 19.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assignments?utf8=%E2%9C%93&phone_number=2345654345&commit=Find" for ::1 at 2019-02-01 09:41:43 +0530
+Processing by AssignmentsController#index as HTML
+  Parameters: {"utf8"=>"✓", "phone_number"=>"2345654345", "commit"=>"Find"}
+  Rendered assignments/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 456ms (Views: 30.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assignments?utf8=%E2%9C%93&phone_number=8877665544&commit=Find" for ::1 at 2019-02-01 09:41:51 +0530
+Processing by AssignmentsController#index as HTML
+  Parameters: {"utf8"=>"✓", "phone_number"=>"8877665544", "commit"=>"Find"}
+  Rendered assignments/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 506ms (Views: 17.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assignments?utf8=%E2%9C%93&phone_number=6688768945&commit=Find" for ::1 at 2019-02-01 09:42:03 +0530
+Processing by AssignmentsController#index as HTML
+  Parameters: {"utf8"=>"✓", "phone_number"=>"6688768945", "commit"=>"Find"}
+  Rendered assignments/index.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 578ms (Views: 17.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assignments?utf8=%E2%9C%93&phone_number=6686787825&commit=Find" for ::1 at 2019-02-01 09:42:23 +0530
+Processing by AssignmentsController#index as HTML
+  Parameters: {"utf8"=>"✓", "phone_number"=>"6686787825", "commit"=>"Find"}
+  Rendered assignments/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 529ms (Views: 15.8ms | ActiveRecord: 0.0ms)
